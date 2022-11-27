@@ -1,2 +1,2 @@
-echo "Helloo World!";
+echo "Hello World!";
 echo date("Y-m-d"); 
